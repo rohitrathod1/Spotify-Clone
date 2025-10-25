@@ -3,7 +3,7 @@
 
 ---
 
-![Spotify Clone Preview](https://via.placeholder.com/1200x600/1DB954/000000?text=Spotify+Clone+by+You)  
+![Spotify Clone Preview](https://spotify-clone-r4o0.onrender.com)  
 *Minimal. Fast. Beautiful.*
 
 ---
@@ -28,7 +28,7 @@ Perfect for:
 | **Auto Playlist Generation** (`info.json`) | Done |
 | **Play / Pause / Seek / Volume** | Done |
 | **Next / Previous Track** | Done |
-| **Responsive Sidebar (Mobile-Friendly)** | Done |
+| **Responsive Sidebar ( GitHub RepositoryMobile-Friendly)** | Done |
 | **Album Art Fallback** | Done |
 | **Mood-Based Playlists** | Done |
 | **Zero Dependencies** | Done |
@@ -117,7 +117,6 @@ Zero runtime dependencies
 Full offline support
 < 50KB JS bundle
 
-
 Browser Support
 
 Browser,Support
@@ -128,3 +127,9 @@ Edge,Full
 
 Works on mobile & desktop
 
+Contributing
+
+Fork the repo
+Create your feature branch
+Commit your changes
+Open a Pull Request
