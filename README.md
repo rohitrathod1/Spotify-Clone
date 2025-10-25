@@ -2,10 +2,9 @@
 **A Modern, Responsive, Offline-First Music Player – Built with HTML, CSS & Vanilla JS**
 
 ---
-
-![Spotify Clone Preview](https://spotify-clone-r4o0.onrender.com)  
-*Minimal. Fast. Beautiful.*
-
+### Live Demo  
+[Launch Spotify Clone](https://spotify-clone-r4o0.onrender.com)  
+*Click to play in your browser — no install needed!*
 ---
 
 ## Overview
